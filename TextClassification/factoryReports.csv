@@ -1,0 +1,481 @@
+type,text
+Mechanical Failure,Items are occasionally getting stuck in the scanner spools.
+Mechanical Failure,Loud rattling and banging sounds are coming from assembler pistons.
+Electronic Failure,There are cuts to the power when starting the plant.
+Electronic Failure,Fried capacitors in the assembler.
+Electronic Failure,Mixer tripped the fuses.
+Leak,Burst pipe in the constructing agent is spraying coolant.
+Electronic Failure,A fuse is blown in the mixer.
+Mechanical Failure,Things continue to tumble off of the belt.
+Mechanical Failure,Falling items from the conveyor belt.
+Mechanical Failure,"The scanner reel is split, it will soon begin to curve."
+Electronic Failure,Fuses are blown in the scanner.
+Electronic Failure,Shrill cry from the scanner computer.
+Software Failure,Sorter controller neglects to interface.
+Mechanical Failure,Clunky sounds made by the sorting pistons.
+Mechanical Failure,Assembler will produce bent products.
+Mechanical Failure,Piston assembly makes a strong banging sound.
+Mechanical Failure,There are cracks appearing in the outer plate of the mixer.
+Software Failure,The mixing software crashed.
+Electronic Failure,Scanner frequently shuts down unexpectedly.
+Electronic Failure,Fuse is blown in the assembly mixer device.
+Mechanical Failure,The assembler will not move from time to time.
+Electronic Failure,Fuse is blown in the assembler.
+Electronic Failure,Abnormal electrical sounds from the scanner.
+Software Failure,Assembling software fails to connect to the network.
+Electronic Failure,Mixer is hot to the touch.
+Mechanical Failure,A slamming sound is heard in the cylinder agent.
+Mechanical Failure,Slight ticking sound emitted from the mixer.
+Electronic Failure,Robot arm power supply is burnt out.
+Software Failure,The controller programming continues crashing.
+Electronic Failure,Sharp high-pitched sound coming from the blender.
+Leak,Blending coolant spilling on the floor.
+Electronic Failure,A fuse in the controller assembly is blown.
+Mechanical Failure,Assembled products have some rough edges.
+Mechanical Failure,A big rattling sound heard inside the mixer.
+Software Failure,Mechanical arrangement software freezes at times.
+Electronic Failure,Mixer is hot to the touch.
+Electronic Failure,Sorter power supply has failed.
+Electronic Failure,The mixer start-up trips some fuses.
+Mechanical Failure,Transport line is stuck.
+Mechanical Failure,Some assembled products are cracked.
+Leak,Overheating of the sorting plant machines.
+Electronic Failure,Strange electrical sounds from the scanner.
+Mechanical Failure,Scanner reel will begin cracking.
+Mechanical Failure,Rattling sound caused by the robot arm.
+Software Failure,Mixing software has crashed.
+Mechanical Failure,Scanner spools are starting to crack.
+Electronic Failure,The mixer is hot to the touch.
+Mechanical Failure,Rattling clunky sounds heard inside assembler pistons.
+Electronic Failure,Robot arm is emitting black smoke.
+Leak,Blender coolant pipe spilling.
+Mechanical Failure,Weird whirring sound heard inside the construction agent.
+Leak,Blender coolant spilling all over the place.
+Mechanical Failure,Things stuck in spool scanner.
+Electronic Failure,High pitch coil whine heard in the mixer.
+Mechanical Failure,Things are falling from the conveyor line.
+Mechanical Failure,Jammed conveyor belt.
+Leak,Weird liquid on the ground of the bottom of the mixer.
+Mechanical Failure,Dents in product is caused by the robot arm.
+Electronic Failure,Fuse to the mixer assembly tripped.
+Electronic Failure,Regular power cuts when starting plant.
+Mechanical Failure,Things will fall off the transportation line.
+Leak,Assembler is overheating.
+Mechanical Failure,Items falling off conveyor belt.
+Mechanical Failure,Products are sometimes stuck to the scanner of the reel.
+Software Failure,"Software controller, will fail to interface with the mixer."
+Leak,mixer is overheating.
+Software Failure,Sorter controller does not connect.
+Mechanical Failure,Robot arms giving slight indications of wear.
+Mechanical Failure,The products occasionally leave the scanner cracked.
+Electronic Failure,The mixer is smoking during operation.
+Electronic Failure,Strange sound was produced from mixer.
+Electronic Failure,Construction of the assembler agent gets turned off.
+Leak,Constantly overheating mixer.
+Electronic Failure,Smoke is emitted of the robot arm.
+Mechanical Failure,breaks appearing in the scanner roller.
+Electronic Failure,Stuck mixer output.
+Software Failure,Scanner programming frozen.
+Electronic Failure,assembler backup power burnt out.
+Electronic Failure,Mixer is releasing smoke.
+Electronic Failure,Mixer has been smoking while running.
+Electronic Failure,High pitched coil whine from scanner computer.
+Mechanical Failure,Strange rattling sound heard inside mixer.
+Mechanical Failure,quiet rattle inside the mixer.
+Mechanical Failure,Transport line stuck.
+Mechanical Failure,Scanner spools beginning to split and curve.
+Electronic Failure,Mixer start up tripped fuse.
+Mechanical Failure,The items periodically leave the scanner broke.
+Mechanical Failure,slight ticking sound emitted from the mixer.
+Electronic Failure,strange high-pitched sound coming from assembler.
+Electronic Failure,Power cut in factory at start up.
+Mechanical Failure,cracks appearing in the scanner roller.
+Mechanical Failure,Some of the material output by the assembler is bent.
+Electronic Failure,Backup power supply of the mixer failed.
+Leak,Extreme coolant spill underneath mixer.
+Software Failure,Scanner software frozen.
+Electronic Failure,Occasional power cuts when beginning plant.
+Electronic Failure,Ringing sound in the electrical scanner.
+Mechanical Failure,Material has been bent by the assembler.
+Electronic Failure,Scanner shut down unexpectedly.
+Leak,Extraordinary overheating of sorter plant.
+Mechanical Failure,Scanner spools get stuck.
+Leak,Burst pipe in the cooling structure when the agent is engaged.
+Leak,The cooling water in the mixer spills all over the place.
+Leak,Some liquid pooling underneath output of assembler.
+Mechanical Failure,The material stuck in a mixer.
+Mechanical Failure,Returned products from assembler is cracked.
+Leak,liquid reservoir leaking under construction agent.
+Electronic Failure,Back up mixer power supply failed.
+Mechanical Failure,Product jammed in scanner spools.
+Leak,Mixer is overheating.
+Electronic Failure,Software unexpectedly closed the scanner.
+Software Failure,Controller software crashed.
+Mechanical Failure,The materials get stuck in the blender.
+Software Failure,Sorter interface controller fails to connect.
+Mechanical Failure,loud sound made by the piston in assembler.
+Mechanical Failure,Things periodically fall out in scanner spools.
+Mechanical Failure,Some materials output by the assembler are bent.
+Mechanical Failure,Slight ticking sound emitted from blender.
+Leak,Lots of mess on the floor under mixer.
+Electronic Failure,scanner is radiating heat then gets stuck.
+Software Failure,Blending programming smashed.
+Mechanical Failure,Product leaves out of scanner damaged.
+Software Failure,Programming neglects to interface with sorter.
+Mechanical Failure,Items sometimes fall off the belt.
+Leak,Mixer will overheat occasionally.
+Mechanical Failure,unusual sound coming from a mixer.
+Leak,Some drips of liquid are appearing underneath the assembler.
+Mechanical Failure,The scanner spools are sometimes jamming.
+Mechanical Failure,Things once in a while tumble off transport line.
+Mechanical Failure,Spools bowed in scanner.
+Mechanical Failure,article will come out broken from scanner
+Electronic Failure,strange electric sound in the scanner.
+Electronic Failure,Sorter motor seriously overheating.
+Leak,Mixer suffers extreme overheating.
+Electronic Failure,Mixer trips the fuse.
+Mechanical Failure,Conveyor belt starting to split
+Mechanical Failure,Cracks appearing on outer panels of mixer.
+Leak,Extreme overheating of sorter plant.
+Mechanical Failure,element affixed to the spool classifier smashed
+Electronic Failure,Mixer is emitting smoke.
+Mechanical Failure,Loud churning sound from the mixer.
+Electronic Failure,Mixer sparks and smokes at startup.
+Software Failure,Software fails to connect to sorter.
+Leak,A few dribbles of fluid are showing up underneath the constructing agent.
+Mechanical Failure,Rattling noise was heard in the assembler.
+Electronic Failure,Dark smoke comes from the construction agent.
+Mechanical Failure,The first product gets jammed in the spool classifier from time to time.
+Mechanical Failure,Materials here and there stall out in robot arm.
+Mechanical Failure,Jammed conveyor belt.
+Leak,Some of the output accumulates liquid in the bottom of the assembler.
+Electronic Failure,The scanner is too hot to touch.
+Electronic Failure,Breaker blown in constructing agent.
+Mechanical Failure,Reel scanner starts cracking or bending.
+Mechanical Failure,Scanner spools beginning to break.
+Electronic Failure,Launch of the robot arm trips fuse.
+Electronic Failure,high-pitched cry in the mixer.
+Electronic Failure,Mixer is smoking.
+Mechanical Failure,Item comes out scanner broken.
+Mechanical Failure,Scanner spools get jammed.
+Mechanical Failure,"Once things go offline, the fuses trip."
+Electronic Failure,Sharp electronic sound heard in the internal assembler.
+Mechanical Failure,Uproarious shaking sounds in blender.
+Electronic Failure,Consistent power cuts when beginning sorter plant.
+Mechanical Failure,items broken when leaving scanner.
+Software Failure,mixer software will continue freeze.
+Electronic Failure,Mixer is smoking.
+Mechanical Failure,The sorter motor keeps getting jammed.
+Mechanical Failure,Spool bent in the scanner.
+Electronic Failure,Robot arm control supply wore out.
+Software Failure,Combining software neglects to interface with sorter.
+Leak,Burst pipe in assembler is spraying coolant.
+Electronic Failure,Blender start up ruined meld.
+Electronic Failure,Fuse blown in scanner.
+Mechanical Failure,Things will keep falling off belt
+Leak,Leaking coolant in the mixer.
+Software Failure,combination of software faults interacting with classifier.
+Mechanical Failure,First item in some cases stuck in sorter spools.
+Mechanical Failure,Items return from assembler cracked.
+Electronic Failure,Odd shrill sounds from constructing agent.
+Electronic Failure,Scanner shut down unexpectedly.
+Leak,Extraordinary overheating of blender.
+Mechanical Failure,Peculiar shaking sound heard inside blender.
+Mechanical Failure,Shaking sounds heard in constructing agent.
+Software Failure,crashed mixing software.
+Mechanical Failure,Defects showing in assembled products.
+Electronic Failure,Weird sounds produced from blender.
+Mechanical Failure,Constructing agent at times getting stuck.
+Leak,Burst pipe is spraying coolant in the assembler.
+Mechanical Failure,Assembler now and again overheating.
+Mechanical Failure,Some collected items are split.
+Leak,Blender is overheating.
+Mechanical Failure,Robot arms showing slight signs of wear.
+Electronic Failure,Overheating in the sorter engine.
+Mechanical Failure,Fine breaks appearing on constructing agent rollers.
+Mechanical Failure,Defects that have been shown in the assembled product.
+Electronic Failure,Sharp electrical sounds heard inside constructing agent.
+Mechanical Failure,Item stuck in scanner spools.
+Electronic Failure,Smoke is emitted by the robot arm.
+Electronic Failure,mixer will overheat occasionally.
+Leak,Mixing coolant leaking on floor.
+Electronic Failure,Sorter control supply fizzled.
+Electronic Failure,Can hear a moaning coil in the classifier.
+Electronic Failure,Blender now and then turning off.
+Electronic Failure,Scanner is extremely hot to contact.
+Mechanical Failure,Rattling sounds heard in assembler.
+Electronic Failure,Blender now and again overheats.
+Electronic Failure,mixer smokes at time of start-up.
+Electronic Failure,Fried capacitor in the assembler.
+Electronic Failure,Mixer will start then trip fuse.
+Electronic Failure,Fuse blown in assembly motor.
+Electronic Failure,assembler keeps switching off.
+Mechanical Failure,Scanner spools starting to crack and bend.
+Software Failure,Classification software freezes occasionally.
+Electronic Failure,"Readers is smoking at the time of start-up, emits a spark."
+Mechanical Failure,Sorter yields bent products.
+Electronic Failure,Blender is hot to contact.
+Software Failure,Blending programming continues freezing.
+Electronic Failure,sorter control power failure.
+Leak,Some fluid pooling underneath yield of constructing agent.
+Leak,Coolant leaking from mixer.
+Mechanical Failure,Material gets twisted by the construction agent.
+Electronic Failure,Fuse is blown in the scanner.
+Electronic Failure,Constant power cuts when starting sorter plant.
+Mechanical Failure,Noisy sounds heard out of blender.
+Leak,Liquid discharge in the bottom of the sorting agent.
+Mechanical Failure,"Rattling, annoying sound in the piston assembly."
+Electronic Failure,Smoke shows up when constructing agent is powered on.
+Leak,Extreme coolant spill under mixer.
+Mechanical Failure,fine cracks appearing on the roller assembly.
+Electronic Failure,The assembler trips the fuse.
+Electronic Failure,Fuse blown in get mixing blender.
+Software Failure,Software driver is still failing.
+Mechanical Failure,Loud sounds emerging from mixer.
+Electronic Failure,Mixer spoils output.
+Mechanical Failure,Constructing agent is giving indications of wear.
+Leak,Pipe in the mixer has spraying the coolant everywhere.
+Mechanical Failure,Slight shaking sound inside constructing agent.
+Mechanical Failure,Transport line keeps bending items.
+Mechanical Failure,Clogged transport line.
+Mechanical Failure,Conveyor belt jammed.
+Electronic Failure,Smoke is being emitted from robot arm.
+Electronic Failure,There are some high-pitched electrical sounds emitted by the mixer.
+Mechanical Failure,Items stuck in scanner spools.
+Electronic Failure,Capacitor blown in the scanner.
+Mechanical Failure,Things some of the time tumble off the belt.
+Electronic Failure,Scanner is very hot to touch.
+Mechanical Failure,Crack appearing on outer panel of robot arm.
+Electronic Failure,Loud whine sound from sorter PC.
+Mechanical Failure,Classifier engine continues to get stuck.
+Software Failure,Sorter controller fails to connect.
+Software Failure,Sorting software occasionally freezes.
+Mechanical Failure,Rattling sound heard inside scanner.
+Mechanical Failure,Assembler is showing signs of wear.
+Mechanical Failure,The materials get jammed in the mixer.
+Leak,spilled material in the mixer.
+Electronic Failure,High pitched noise emitted from mixer.
+Mechanical Failure,Things tumbling off transport line.
+Software Failure,scanner program is frozen.
+Mechanical Failure,Conveyor belt starting to split and bend.
+Mechanical Failure,Sorter yields browned items.
+Electronic Failure,Robot arm power supply burnt out.
+Electronic Failure,Strange high-pitched sounds from assembler.
+Mechanical Failure,Quiet rattling sound inside assembler.
+Electronic Failure,Unexpected shutdown of scanner.
+Mechanical Failure,Conveyor belt has stated to divide
+Mechanical Failure,Many defects are shown in the assembled product.
+Leak,Severe overheating in the mixer.
+Electronic Failure,Robot arm has generated a black smoke.
+Electronic Failure,Corrosion of the capacitor in the construction agent.
+Electronic Failure,Robot arm start up tripped fuse.
+Mechanical Failure,Construction agent sometimes stuck.
+Mechanical Failure,Products keep falling off the belt.
+Leak,"Some of the liquid droplets, are collected in the bottom of the assembler."
+Leak,Mixer under strict coolant leakage.
+Leak,Severe coolant leak underneath mixer.
+Mechanical Failure,Material is stuck in a mixer.
+Electronic Failure,mixer does not turn off.
+Leak,Assembler is overheating.
+Electronic Failure,Startup is consistently causing a power failure the sorting plant.
+Electronic Failure,controls of feeding robot arm jammed.
+Mechanical Failure,The scanner spools are once in a while sticking.
+Mechanical Failure,There is a slight ticking sound from the mixer.
+Leak,Power failures in the building cooling agents.
+Mechanical Failure,Robot arm gives slight signs of wear.
+Mechanical Failure,Cracks appearing on scanner rollers.
+Mechanical Failure,Article trapped in the reel scanner.
+Mechanical Failure,Strange rattle sound in the internal mixer.
+Leak,Coolant leaking on the floor.
+Mechanical Failure,Some of the material is twisted inside scanner.
+Mechanical Failure,Spools bent in scanner.
+Electronic Failure,Sorter engine is massively overheating.
+Electronic Failure,Assembler is smoking when turned on.
+Electronic Failure,Fuses blown in get coupling engine.
+Software Failure,"After installation of the software, you will not be able to connect to the network."
+Leak,Leaking of coolant in the mixer.
+Leak,Flooding on the floor under the mixer.
+Electronic Failure,Scanner gives off sparks and then smokes during startup.
+Electronic Failure,Build agent emits an odd sound.
+Mechanical Failure,Fine cracks appearing on assembler rollers.
+Electronic Failure,Fuse to the motor assembly blown.
+Electronic Failure,High pitched whine from mixer.
+Mechanical Failure,The sorter engine continues getting stuck.
+Software Failure,Mixing software keeps freezing.
+Software Failure,Software driver has crashed.
+Mechanical Failure,Numerous variations appearing on the collected objects.
+Mechanical Failure,assembler cracked some of the products.
+Electronic Failure,The scanner unexpectedly powers down
+Electronic Failure,Constant power reduction when start sorting plant.
+Leak,Pipe in mixer is spraying coolant everywhere.
+Electronic Failure,Constructing agent bands are intertwined.
+Electronic Failure,The blender is smoking during activity.
+Software Failure,Controller software fails to interface with mixer.
+Mechanical Failure,Items sometimes fall off conveyor belt.
+Electronic Failure,Back up constructing agent control supply wore out.
+Electronic Failure,Mixer disconnected at times.
+Electronic Failure,Blown fuse in controller constructing agent.
+Leak,Coolant leaking from blender.
+Mechanical Failure,Imperfections appearing in gathered items.
+Electronic Failure,The cooling agent smokes when it is on the construction line.
+Electronic Failure,Blown fuses in controller mixer.
+Mechanical Failure,Products are stuck in a spool scanner.
+Electronic Failure,Mixer sometimes switching off.
+Mechanical Failure,Materials get twisted by constructing agent.
+Electronic Failure,Quiet coil whine from sorter computer.
+Leak,spilled coolant in the mixer.
+Electronic Failure,The assembler has caused a power cut.
+Leak,Mixer is overheated.
+Electronic Failure,There are some sharp electrical sounds discharged by the mixer.
+Leak,Assembler is overheating.
+Mechanical Failure,There are loud noises heard from the mixer.
+Electronic Failure,Build agent bands are intertwined.
+Mechanical Failure,Assembler over time will overheat.
+Mechanical Failure,Break appearing on external board of robot arm.
+Electronic Failure,Fuse blown by the controller mixer.
+Electronic Failure,Shrill cry from scanner PC.
+Mechanical Failure,Assembled products are cracked.
+Software Failure,Controller app continues to freeze.
+Software Failure,The controller software keeps crashing.
+Mechanical Failure,Splits appearing on external boards of blender.
+Electronic Failure,Blown capacitors in scanner.
+Electronic Failure,Scanner radiates heat and afterward smokes during startup.
+Electronic Failure,Software unexpectedly closed the scanner.
+Mechanical Failure,Loud rattling sounds in mixer.
+Electronic Failure,There are several high-pitched sounds that are emitted from electric mixer.
+Mechanical Failure,Loud thrashing sounds heard from mixer.
+Electronic Failure,Switch blowing the construction agent fuse.
+Electronic Failure,Smoke is being emitted from robot arm.
+Electronic Failure,Mixer sometimes overheats.
+Mechanical Failure,Numerous deformities appearing in collected items.
+Mechanical Failure,Shaking sound brought about by robot arm.
+Mechanical Failure,Conveyor belt is bending the products.
+Mechanical Failure,Scanner reel begins to break.
+Leak,Minor break from constructing agent coolant.
+Electronic Failure,Dark smoke shows up when constructing agent engine is fueled on.
+Mechanical Failure,Crack Appearing on the outside panel of the robot arm.
+Electronic Failure,High pitched electrical sounds heard inside assembler.
+Leak,Blender every so often overheats.
+Electronic Failure,Power failure has occurred to the classifier.
+Electronic Failure,Smoke appears when assembler is powered on.
+Electronic Failure,The assembler of the fuse tripped.
+Leak,Tiny leak from assembler coolant.
+Mechanical Failure,Products will fall from time to time the conveyor.
+Mechanical Failure,A few materials yield by the constructing agent are twisted.
+Mechanical Failure,Big sound comes out of the mixer.
+Mechanical Failure,Products will fall from time to time from the belt.
+Mechanical Failure,Materials sometimes get stuck in robot arm.
+Mechanical Failure,Transport line beginning to part and curve.
+Mechanical Failure,Sorter will yield broken items.
+Mechanical Failure,Assembler sometimes overheating.
+Leak,Mixer coolant leakage.
+Software Failure,Controller programming neglects to interface with blender.
+Mechanical Failure,transmission line starting to split
+Mechanical Failure,Products caught in spool scanner.
+Electronic Failure,Robot arm fire up stumbled combine.
+Mechanical Failure,Noisy whipping sounds coming from mixer.
+Mechanical Failure,Rattling sound heard on the inside of the scanner.
+Electronic Failure,very loud whine sound coming from PC.
+Electronic Failure,Blown fuse in controller assembler.
+Electronic Failure,Backup power supply control mixer is dead.
+Mechanical Failure,Robotic arm showing slight signs of wear.
+Mechanical Failure,Reel of the scanner will not move from time to time.
+Leak,Small leak in the cooled assembly.
+Electronic Failure,Capacitor blown in the scanner.
+Mechanical Failure,splits appearing at external connections of mixer.
+Mechanical Failure,Reel is stuck in the scanner.
+Mechanical Failure,Gathered items are broken.
+Mechanical Failure,Shaking sound heard inside scanner.
+Leak,Bunches of chaos on the floor under blender.
+Electronic Failure,Loud noise released from acute mixer.
+Mechanical Failure,Many defects showing in assembled products.
+Electronic Failure,The scanner is a very hot to the touch.
+Mechanical Failure,Distinctive rattling sound was heard on the inside of the mixer.
+Mechanical Failure,Uproarious shaking and slamming sound from constructing agent cylinders.
+Electronic Failure,Assembler tripped fuse.
+Mechanical Failure,Rattling sounds inside constructing agent cylinders.
+Electronic Failure,"Robot arm, black smoke is released."
+Mechanical Failure,Reel of the scanner stuck from time to time.
+Mechanical Failure,Awkward sounds made by arranging cylinders.
+Electronic Failure,Coil whine from the computer scanner.
+Mechanical Failure,rattling sounds coming from assembler agents.
+Mechanical Failure,Spool bent in the scanner.
+Mechanical Failure,fine cracks appearing in the construction of the roller agent.
+Software Failure,Frozen mixing software.
+Mechanical Failure,Transport line beginning to part.
+Leak,Mixer coolant leaking everywhere.
+Software Failure,Programming has refused to interface with the classifier.
+Electronic Failure,Black smoke appears when assembler motor is powered on.
+Software Failure,Controller programming freezes.
+Electronic Failure,Fuse blown in the controller mixer.
+Leak,Material spillage in mixer.
+Mechanical Failure,Assembler occasionally getting jammed.
+Mechanical Failure,The assembler has been showing signs of wear.
+Mechanical Failure,First product sometimes jammed in sorter spools.
+Electronic Failure,acute electrical sound heard in the work agent.
+Electronic Failure,Back up blender control supply frazzled.
+Mechanical Failure,Collected imperfections appear on the item.
+Electronic Failure,Back up assembler power supply burnt out.
+Electronic Failure,Corroded capacitors in constructing agent.
+Software Failure,Programming controller refuses to connect to the mixer.
+Electronic Failure,mixer is smoking when operating.
+Mechanical Failure,Things come back from assembler split.
+Electronic Failure,Some of the electrical sounds discharged in the mixer.
+Electronic Failure,Blender starts and smokes at startup.
+Leak,Mixer leakage of cooling water.
+Electronic Failure,Mixer will sometimes overheat.
+Mechanical Failure,Things regularly fall into the spool scanner.
+Mechanical Failure,he robot arm stalls here and there.
+Mechanical Failure,Collected item is corrupted.
+Leak,Mixer coolant pipe leaking.
+Mechanical Failure,Items will be break and collect in filter.
+Leak,Mixer refrigerant has spilled on the floor.
+Mechanical Failure,Sometimes material is stuck in the arm of the robot.
+Mechanical Failure,"Reel of the sorter, will continue to torque."
+Electronic Failure,Fuse of the scanner tripped.
+Mechanical Failure,loud sounds created by the arrangement of the cylinder agents.
+Mechanical Failure,Materials get bent by assembler.
+Electronic Failure,Blown fuses in controller blender.
+Mechanical Failure,Shaking sound heard in the mixing agent.
+Leak,Extreme overheating of mixer.
+Mechanical Failure,Sorting engine fails.
+Leak,Assembler is overheating.
+Electronic Failure,Sorter engine truly overheating.
+Mechanical Failure,heard a big sound coming from mixer.
+Electronic Failure,Robot arm is yielding dark smoke.
+Leak,Material spillage in mixer.
+Electronic Failure,Engine sends out black smoke when you are running the assembler.
+Mechanical Failure,the outside of the scanner is damaged.
+Leak,Abnormal overheating of the sorting plant.
+Electronic Failure,blown fuse in the controller agent.
+Mechanical Failure,Breaks appearing on scanner rollers.
+Electronic Failure,Blown capacitors in scanner.
+Mechanical Failure,Clogged transport line.
+Mechanical Failure,Reel is stuck in the scanner.
+Mechanical Failure,Assembler is overheating.
+Electronic Failure,constructing agent continues turning off.
+Mechanical Failure,Conveyor belt jammed.
+Mechanical Failure,"Occasionally, emerging products was stuck in the scanner."
+Mechanical Failure,The sorter spools continue twisting.
+Electronic Failure,Scanner regularly powers down unexpectedly.
+Electronic Failure,backup power supply to control agent failed
+Mechanical Failure,Items keep falling off the belt.
+Electronic Failure,Fuse blown in the engine coupling.
+Leak,mixer has burst refrigerant pipes.
+Leak,Mixer occasionally overheats.
+Electronic Failure,Robot arm binding not activated.
+Software Failure,Frozen scanner software.
+Leak,Hose in the mixer is spraying coolant everywhere.
+Mechanical Failure,Heard rattling inside the scanner.
+Software Failure,Software of the organization will sometimes freeze.
+Mechanical Failure,Defects appearing in the robot arm on the external board.
+Software Failure,Software not able to connect to the classifier.
+Software Failure,Controller of programming continues to crash.
+Mechanical Failure,Controller agents giving signs of wear.
+Leak,Channel in blender is spraying coolant all over the place.
+Mechanical Failure,Assembler will return broken items.
+Mechanical Failure,Things stuck in scanner spools.
+Mechanical Failure,Robot arm is rattling.
+Mechanical Failure,Qualifying reel keeps bending.
+Electronic Failure,Sparks and smoke in the mixer at startup.
+Mechanical Failure,The sorter spools keep bending.
